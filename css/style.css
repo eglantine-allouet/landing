@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn:ital@1&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+font-family: 'Indie Flower';
+font-size: 18px;
+margin: 0px;
+background-color: white;
+
+}
+
+h1, h2 {
+	color : black;
+	font-family: 'Climate crisis';
+	font-weight: bold;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
